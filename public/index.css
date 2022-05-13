@@ -301,6 +301,11 @@ body {
   background: #FFFAEB;
 }
 
+.inner-container {
+  padding: 2rem;
+  margin: 0 auto;
+}
+
 .visually-hidden {
   position: absolute;
   height: 1;
@@ -347,10 +352,6 @@ img {
 
 .text-center {
   text-align: center;
-}
-
-.p2 {
-  padding: 2rem;
 }
 
 .mb1 {
