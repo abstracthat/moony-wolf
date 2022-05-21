@@ -319,6 +319,10 @@ img {
   height: auto;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .heading {
   font-family: 'rockwell';
   font-size: 3rem;
